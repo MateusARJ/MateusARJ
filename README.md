@@ -3,7 +3,7 @@
 # 👨‍💻 Mateus Araújo
 
 🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  
-📍 *1º Módulo - Instituto Federal do Piauí (IFPI)*  
+📍 *2º Módulo - Instituto Federal do Piauí (IFPI)*  
 🧠 *Entusiasta de Hacking, Bug Bounty e Pentesting*
 
 ---
