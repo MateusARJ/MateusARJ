@@ -33,9 +33,9 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Estou i
 
 - ✅ Lógica de Programação  
 - ✅ Fundamentos da Web (HTML e CSS)  
-- ✅ Introdução à Programação com TypeScript e JavaScript  
+- ✅ Programação com TypeScript e JavaScript  
 - ✅ Redes de Computadores e Segurança da Informação  
-- ✅ Pentest (Testes de Intrusão)  
+- ✅ Pentest (Testes de Invasão)  
 - ✅ Bug Bounty (Caça a Vulnerabilidades de sistemas web)
 
 ---
