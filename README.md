@@ -3,7 +3,7 @@
 # 👨‍💻 Mateus Araújo
 
 🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  
-📍 *2º Módulo - Instituto Federal do Piauí (IFPI)*  
+📍 *3º Módulo - Instituto Federal do Piauí (IFPI)*  
 🧠 *Entusiasta de Hacking, Bug Bounty e Pentesting*
 
 ---
@@ -25,6 +25,7 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Estou i
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-000000?style=for-the-badge&logo=appveyor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -50,7 +51,7 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Estou i
 
 ### ✉️ E-mail:
 
-<a href="mailto:seu-email@email.com">
+<a href="mailto:mateusarj07@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
 </a>
 
