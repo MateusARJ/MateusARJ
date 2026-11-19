@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:07070A,55:4A0010,100:FF1744&height=230&section=header&text=MATEUS%20ARA%C3%9AJO&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Dev%20%E2%80%A2%20Security%20%E2%80%A2%20Bug%20Hunter&descAlignY=62&descSize=18" alt="Banner: Mateus Araújo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,50:8B0000,100:FF1744&height=230&section=header&text=MATEUS%20ARA%C3%9AJO&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Dev%20%E2%80%A2%20Security%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descSize=18" alt="Banner: Mateus Araújo" />
 
 <div align="center">
 
@@ -142,4 +142,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPI** e gosto de e
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1744,45:4A0010,100:07070A&height=120&section=footer" alt="Rodapé" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:8B0000,100:07070A&height=120&section=footer" alt="Rodapé" />
